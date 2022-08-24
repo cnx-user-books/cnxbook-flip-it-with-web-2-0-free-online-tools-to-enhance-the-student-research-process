@@ -1,3 +1,65 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11175</md:content-id>  <md:title>FLIP It with Web 2.0 - Free Online Tools to Enhance the Student Research Process</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>        <md:uuid>faecf097-f4a2-4105-88ad-8d92133aa331</md:uuid>
-<md:slug>flip-it-with-web-2-0-free-online-tools-to-enhance-the-student-research-process</md:slug>
-</metadata>  <col:content>          <col:module document="m33408">        <col:featured-links>                      <cnxml:link-group type="prerequisite">              <cnxml:link url="http://www.pretest.com">Pre-test</cnxml:link>            </cnxml:link-group>                                <cnxml:link-group type="supplemental">              <cnxml:link url="http://www.mindomo.com/view.htm?m=5856ff0fdb5e44b0a0982122f66ac8ae">FLIP It! Mind Map</cnxml:link>              <cnxml:link url="http://docs.google.com/Doc?docid=0AR7duM8xKeZRZGZiazN3OHNfMjExZ3huZnJ2Y2s&amp;hl=en">Post- test</cnxml:link>              <cnxml:link url="http://www.aliceinfo.org/flipit/">FLIP It! Creator's Homepage</cnxml:link>              <cnxml:link url="http://docs.google.com/Doc?docid=0AR7duM8xKeZRZGZiazN3OHNfMTcyY2JwcWhqZ2c&amp;hl=en">FOCUS - Suggested Activities</cnxml:link>            </cnxml:link-group>                  </col:featured-links>      </col:module>                            <col:module document="m33413">        <col:featured-links>                      <cnxml:link-group type="prerequisite">              <cnxml:link url="http://docs.google.com/Doc?docid=0AR7duM8xKeZRZGZiazN3OHNfMTYyZGpycjM3ZzQ&amp;hl=en">Pre-test</cnxml:link>            </cnxml:link-group>                                <cnxml:link-group type="supplemental">              <cnxml:link url="http://www.mindomo.com/view.htm?m=5856ff0fdb5e44b0a0982122f66ac8ae">FLIP It! Mind Map</cnxml:link>              <cnxml:link url="http://docs.google.com/Doc?docid=0AR7duM8xKeZRZGZiazN3OHNfMjExZ3huZnJ2Y2s&amp;hl=en">Post- test</cnxml:link>              <cnxml:link url="http://www.aliceinfo.org/">FLIP It! Creator's Homepage</cnxml:link>              <cnxml:link url="http://docs.google.com/Doc?docid=0AR7duM8xKeZRZGZiazN3OHNfMjEyZHZyZzUzdzg&amp;hl=en">LINK/LOCATE Suggested Activities</cnxml:link>            </cnxml:link-group>                  </col:featured-links>      </col:module>                            <col:module document="m33415">        <col:featured-links>                      <cnxml:link-group type="prerequisite">              <cnxml:link url="http://docs.google.com/Doc?docid=0AR7duM8xKeZRZGZiazN3OHNfMTYyZGpycjM3ZzQ&amp;hl=en">Pre- test</cnxml:link>            </cnxml:link-group>                                <cnxml:link-group type="supplemental">              <cnxml:link url="http://www.mindomo.com/view.htm?m=5856ff0fdb5e44b0a0982122f66ac8ae">FLIP It! Mind Map</cnxml:link>              <cnxml:link url="http://docs.google.com/Doc?docid=0AR7duM8xKeZRZGZiazN3OHNfMjExZ3huZnJ2Y2s&amp;hl=en">Post- test</cnxml:link>              <cnxml:link url="http://www.aliceinfo.org/">FLIP It! Creator's Homepage</cnxml:link>              <cnxml:link url="http://docs.google.com/Doc?docid=0AR7duM8xKeZRZGZiazN3OHNfMjEzYzVqa3A0aGg&amp;hl=en">INPUT/IMPLEMENT/INVESTIGATE Suggested Activities</cnxml:link>            </cnxml:link-group>                  </col:featured-links>      </col:module>                            <col:module document="m33420">        <col:featured-links>                      <cnxml:link-group type="prerequisite">              <cnxml:link url="http://docs.google.com/Doc?docid=0AR7duM8xKeZRZGZiazN3OHNfMTYyZGpycjM3ZzQ&amp;hl=en">Pre- test</cnxml:link>            </cnxml:link-group>                                <cnxml:link-group type="supplemental">              <cnxml:link url="http://www.mindomo.com/view.htm?m=5856ff0fdb5e44b0a0982122f66ac8ae">FLIP It! Mind Map</cnxml:link>              <cnxml:link url="http://www.aliceinfo.org/">FLIP It! Creator's Homepage</cnxml:link>              <cnxml:link url="http://docs.google.com/Doc?docid=0AR7duM8xKeZRZGZiazN3OHNfMjExZ3huZnJ2Y2s&amp;hl=en">Post- test</cnxml:link>              <cnxml:link url="http://docs.google.com/Doc?docid=0AR7duM8xKeZRZGZiazN3OHNfMjE1aG16a25qZ3Y&amp;hl=en">PRODUCE/PRESENT/PAYOFF Suggested Activities</cnxml:link>            </cnxml:link-group>                  </col:featured-links>      </col:module>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" authors="Jennifer B. Stidham">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11175</md:content-id>
+    <md:title>FLIP It with Web 2.0 - Free Online Tools to Enhance the Student Research Process</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>faecf097-f4a2-4105-88ad-8d92133aa331</md:uuid>
+    <md:slug>flip-it-with-web-2-0-free-online-tools-to-enhance-the-student-research-process</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m33408">
+      <col:featured-links>
+        <cnxml:link-group type="prerequisite">
+          <cnxml:link url="http://www.pretest.com">Pre-test</cnxml:link>
+        </cnxml:link-group>
+        <cnxml:link-group type="supplemental">
+          <cnxml:link url="http://www.mindomo.com/view.htm?m=5856ff0fdb5e44b0a0982122f66ac8ae">FLIP It! Mind Map</cnxml:link>
+          <cnxml:link url="http://docs.google.com/Doc?docid=0AR7duM8xKeZRZGZiazN3OHNfMjExZ3huZnJ2Y2s&amp;hl=en">Post- test</cnxml:link>
+          <cnxml:link url="http://www.aliceinfo.org/flipit/">FLIP It! Creator's Homepage</cnxml:link>
+          <cnxml:link url="http://docs.google.com/Doc?docid=0AR7duM8xKeZRZGZiazN3OHNfMTcyY2JwcWhqZ2c&amp;hl=en">FOCUS - Suggested Activities</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
+    <col:module document="m33413">
+      <col:featured-links>
+        <cnxml:link-group type="prerequisite">
+          <cnxml:link url="http://docs.google.com/Doc?docid=0AR7duM8xKeZRZGZiazN3OHNfMTYyZGpycjM3ZzQ&amp;hl=en">Pre-test</cnxml:link>
+        </cnxml:link-group>
+        <cnxml:link-group type="supplemental">
+          <cnxml:link url="http://www.mindomo.com/view.htm?m=5856ff0fdb5e44b0a0982122f66ac8ae">FLIP It! Mind Map</cnxml:link>
+          <cnxml:link url="http://docs.google.com/Doc?docid=0AR7duM8xKeZRZGZiazN3OHNfMjExZ3huZnJ2Y2s&amp;hl=en">Post- test</cnxml:link>
+          <cnxml:link url="http://www.aliceinfo.org/">FLIP It! Creator's Homepage</cnxml:link>
+          <cnxml:link url="http://docs.google.com/Doc?docid=0AR7duM8xKeZRZGZiazN3OHNfMjEyZHZyZzUzdzg&amp;hl=en">LINK/LOCATE Suggested Activities</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
+    <col:module document="m33415">
+      <col:featured-links>
+        <cnxml:link-group type="prerequisite">
+          <cnxml:link url="http://docs.google.com/Doc?docid=0AR7duM8xKeZRZGZiazN3OHNfMTYyZGpycjM3ZzQ&amp;hl=en">Pre- test</cnxml:link>
+        </cnxml:link-group>
+        <cnxml:link-group type="supplemental">
+          <cnxml:link url="http://www.mindomo.com/view.htm?m=5856ff0fdb5e44b0a0982122f66ac8ae">FLIP It! Mind Map</cnxml:link>
+          <cnxml:link url="http://docs.google.com/Doc?docid=0AR7duM8xKeZRZGZiazN3OHNfMjExZ3huZnJ2Y2s&amp;hl=en">Post- test</cnxml:link>
+          <cnxml:link url="http://www.aliceinfo.org/">FLIP It! Creator's Homepage</cnxml:link>
+          <cnxml:link url="http://docs.google.com/Doc?docid=0AR7duM8xKeZRZGZiazN3OHNfMjEzYzVqa3A0aGg&amp;hl=en">INPUT/IMPLEMENT/INVESTIGATE Suggested Activities</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
+    <col:module document="m33420">
+      <col:featured-links>
+        <cnxml:link-group type="prerequisite">
+          <cnxml:link url="http://docs.google.com/Doc?docid=0AR7duM8xKeZRZGZiazN3OHNfMTYyZGpycjM3ZzQ&amp;hl=en">Pre- test</cnxml:link>
+        </cnxml:link-group>
+        <cnxml:link-group type="supplemental">
+          <cnxml:link url="http://www.mindomo.com/view.htm?m=5856ff0fdb5e44b0a0982122f66ac8ae">FLIP It! Mind Map</cnxml:link>
+          <cnxml:link url="http://www.aliceinfo.org/">FLIP It! Creator's Homepage</cnxml:link>
+          <cnxml:link url="http://docs.google.com/Doc?docid=0AR7duM8xKeZRZGZiazN3OHNfMjExZ3huZnJ2Y2s&amp;hl=en">Post- test</cnxml:link>
+          <cnxml:link url="http://docs.google.com/Doc?docid=0AR7duM8xKeZRZGZiazN3OHNfMjE1aG16a25qZ3Y&amp;hl=en">PRODUCE/PRESENT/PAYOFF Suggested Activities</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
+  </col:content>
+</col:collection>
